@@ -79,7 +79,7 @@ nav a:last-of-type {
   position: absolute;
 }
 
-.body {
+body {
   background-image: url(images/Architect.jpg);
   background-size: cover;
   background-repeat: no-repeat;
