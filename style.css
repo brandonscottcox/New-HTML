@@ -81,7 +81,7 @@ nav a:last-of-type {
 
 body {
   background-image: url(images/Architect.jpg);
-  background-size: cover;
+  background-size: contain;
   background-repeat: no-repeat;
   background-position: left top;
   min-height: 100%;
