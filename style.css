@@ -1,0 +1,120 @@
+
+html {
+  min-height: 100%;
+}
+
+header img {
+  width: 29%;
+  border-radius: 50%;
+  margin-top: 210px;
+  margin-left: 10px
+}
+ 
+h1 {
+  font-family: Bookman, URW Bookman L, serif, cursive;
+  font-size: 64px;
+  color: #bea841;
+  text-align: center;
+  margin-top: -5px
+}
+
+h2 {
+  font-family: Bookman, URW Bookman L, serif, cursive;
+  font-size: 54px;
+  color: #eeebce;
+  text-align: center;
+}
+ 
+p {
+  font-family: 'Lato', sans-serif;
+  font-size: 22px;
+  color: #ffffff;
+  margin-top: -100px;
+}
+
+footer {
+  text-align: left;
+}
+
+/* -----------------------------Nav------------------------- */
+
+nav {
+  margin-left: 35px;
+  text-align: center;
+}
+
+nav a {
+  margin-right: 40px;
+  font-size: 20px;
+  color: #8f99a4;
+  font-family: Quattrocento, sans-serif;
+
+}
+
+nav a:visited{
+  color:#3c7c7eab
+}
+
+nav a:hover {
+  color: #777;
+}
+
+nav a:active{
+color:#e9d30eab
+}
+
+nav a:last-of-type {
+  margin-right: 20px;
+}
+
+/*--------------Classes----------------------------------*/
+
+.home{
+  text-align: center;
+  color: rgb(181, 182, 165)
+}
+
+.imageContainer {
+  text-align: center;
+  position: absolute;
+}
+
+.body {
+  background-image: url(images/Architect.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: left top;
+  min-height: 100%;
+  padding-bottom: 220px;
+  position: absolute;
+}
+
+.bubble{
+  text-align: right;
+  margin-right: 170px;
+  margin-top: -130px
+}
+
+.bubbletext1 {
+ margin-left: 380px;
+ margin-top: -175px;
+ font-size: 14px;
+}
+
+.bubbletext2 {
+ margin-left: 380px;
+ margin-top: -10px;
+ font-size: 14px
+}
+
+.bubbletext3{
+ margin-top: 20px;
+ margin-left: 380px;
+ font-size: 14px
+}
+
+.bubbletext4{
+ margin-top: -10px;
+ margin-left: 380px;
+ font-size: 14px
+}
